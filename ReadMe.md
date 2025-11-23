@@ -4,4 +4,4 @@ This is a 64-Bit portable random number generator class based on the Mersenne Tw
 
 This class, specifically, is an exploration of the 32-Bit Mersenne Twister algorithm developed in 1997 by Makoto Matsumoto and Takuji Nishimura.
 
-GraphDistribution.py is a simple python script to plot the output of the random number generator with ccurrences as a functionn of number.
+GraphDistribution.py is a simple python script to plot the output of the random number generator with ccurrences as a function of number.
